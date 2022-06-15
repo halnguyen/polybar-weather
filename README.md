@@ -7,4 +7,3 @@ the latitude and longitude is required, along with the mentioned API key from Op
 <p>Written in Python, using the <a href="https://pypi.org/project/requests/">requests</a> library to fetch the API</p>
 
 <h2>Screen shot:</h2>
-![Screenshot](./src/screenshot.png)
