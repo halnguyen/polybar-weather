@@ -1,0 +1,6 @@
+{
+	"lat": "48",
+	"lon": "-123",
+	"api_key": "91f4c68af2e7683a94f0eb447bba0ebb",
+	"display": ["wind", "clouds", "rain", "snow"] 
+}
